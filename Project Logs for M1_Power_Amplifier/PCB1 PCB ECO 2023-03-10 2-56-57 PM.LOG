@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC4_2 Pin=L2-1
+Removed Pin From Net: NetName=PA_OUT Pin=L2-2
+Removed Member From Class: ClassName=Power_Amplifier Member=L2
+Added Component: Designator=L?(WE-PDF-1045)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/7447797050.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "ver 2, Jul-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "0.50 µH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMD Inductor, 2-Leads, Body 10.2 x 10.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "WE-PDF-1045"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2009"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_2 Pin=L?-1
+Added Pin To Net: NetName=PA_OUT Pin=L?-2
+Added Member To Class: ClassName=Power_Amplifier Member=Component L? 7447797050
+Added Room: Name=Power_Amplifier

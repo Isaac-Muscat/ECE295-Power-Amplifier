@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=L2 Old Footprint=WE-PDF-1045 New Footprint=COIL-SER2010-3_V
+Change Component Comment : Designator=L2 Old Comment=7447797050 New Comment=SER2010-501MLD
+Change Managed Component Library Link : Designator=L2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=DA436294-1CBA-4688-99E9-AD8596E85E51 New ItemGUID=88E10750-EBAE-4C0A-A824-E1978EA7B70B Old RevisionGUID=EA83DC42-E73E-4645-A749-C2B000A3D9AD New RevisionGUID=9D3B11E5-B0FF-45F0-9870-513A18A42837
+Change component parameters: Designator = "L2" ("L2"); Footprint = "WE-PDF-1045"; UniqueID = "\LEXNFVNS" ("\LEXNFVNS")
+Change component parameters (AddParameter): Name = "Ambient Temperature with Derated Current"; Value = "85 to 125 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ambient Temperature with Irms Current"; Value = "-40 to 85 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.coilcraft.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.coilcraft.com/pdfs/ser2000.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.coilcraft.com/pdfs/ser2000.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "09/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DCR typ (mOhm)"; Value = "0.9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance +/- 20% (uH)"; Value = "0.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Isat (A)"; Value = "81"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Coilcraft"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin SMD, Body 19.18 x 9.27 mm, Height 9.4 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SER2010-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "09/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "SER2010-501MLD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SRF typ (MHz)"; Value = "148"; VariantName = "[No Variations]"
+Added Room: Name=Power_Amplifier
